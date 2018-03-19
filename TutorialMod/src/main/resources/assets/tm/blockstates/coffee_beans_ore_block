@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "tm:coffee_beans_ore_block" }
+    }
+}

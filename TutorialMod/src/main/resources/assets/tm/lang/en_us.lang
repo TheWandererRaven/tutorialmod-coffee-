@@ -1,0 +1,8 @@
+
+//Items
+item.coffee_beans.name=Coffee Beans
+
+
+
+//Blocks
+tile.coffee_beans_ore_block.name=Coffee Ore
